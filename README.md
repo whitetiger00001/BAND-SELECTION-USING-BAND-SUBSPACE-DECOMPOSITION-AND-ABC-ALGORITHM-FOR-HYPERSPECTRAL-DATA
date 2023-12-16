@@ -15,7 +15,7 @@ measures, namely, overall accuracy (OA), average accuracy (AA), and kappa coeffi
 are used to assess the classification results. The results show better accuracy and classification
 scores.
 
-Chapter:- Introduction
+Chapter 1:- Introduction
 
 Hyperspectral images capture information about objects of interest from broad, narrow
 electromagnetic bands. Compared to RGB images, these bands can provide more spectral and
